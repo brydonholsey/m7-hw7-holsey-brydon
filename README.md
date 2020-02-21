@@ -1,1 +1,2 @@
 # m7-hw7-holsey-brydon
+I used notes from our live lecture and the recordings to help me complete this assignment. No other outside resources were used. I had no major issues completing this assignment.
